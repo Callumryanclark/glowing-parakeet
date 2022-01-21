@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#can hide raw data as git doesn't do well with large files
+.raw-data/
+*.ppt
+*.docx
+rubbish.r
