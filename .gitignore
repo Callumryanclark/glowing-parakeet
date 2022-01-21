@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+*.html
 
 #can hide raw data as git doesn't do well with large files
 .raw-data/
